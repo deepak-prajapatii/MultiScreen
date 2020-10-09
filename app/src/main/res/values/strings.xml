@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Multiscreen</string>
+    <string name="restaurant_name">Baba ka Dhaba</string>
+    <string name="order_placed">Place your Order</string>
+    <string name="item_name">Item</string>
+    <string name="order_place">Order Placed</string>
+</resources>
